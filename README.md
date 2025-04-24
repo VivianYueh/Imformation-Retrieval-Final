@@ -4,6 +4,7 @@
 
 ## 版本紀錄
 4/16 岳紀伶: 1.改變擷取字串方式 2.擷取內文
+4/22 岳紀伶： 1.用CKIP transformer斷詞 2.用BERT找關鍵字
 
 ## 簡報
 https://docs.google.com/presentation/d/1ukAKnp2SwdaSIdyhpDMejL2s_BweCI5AZsYctePEZts/edit?usp=sharing
